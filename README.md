@@ -23,6 +23,27 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/fujfyujf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fujfyujf" height="30" width="40" /></a>
+<a href="https://dev.to/fujfyujfujfyuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fujfyujfujfyuj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fyujfyj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fyujfyj" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/fujfuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fujfuj" height="30" width="40" /></a>
+<a href="https://codesandbox.com/jfujfuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jfujfuj" height="30" width="40" /></a>
+<a href="https://fb.com/fujfyuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fujfyuj" height="30" width="40" /></a>
+<a href="https://instagram.com/fyjfyujf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fyjfyujf" height="30" width="40" /></a>
+<a href="https://dribbble.com/fyujfyuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="fyujfyuj" height="30" width="40" /></a>
+<a href="https://www.behance.net/yujyuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yujyuj" height="30" width="40" /></a>
+<a href="https://hashnode.com/fyujfyjfyuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="fyujfyjfyuj" height="30" width="40" /></a>
+<a href="https://medium.com/fyjfujfyujujf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="fyjfujfyujujf" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/fyujfyujyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fyujfyujyu" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/jyfujfyu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jyfujfyu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jfyujfyuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jfyujfyuj" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ujfyujfyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ujfyujfyu" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/fyujfujfyujfyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fyujfujfyujfyu" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/jfyujyuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="jfyujyuj" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/fyujf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="fyujf" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/fjfyujfyujf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="fjfyujfyujf" height="30" width="40" /></a>
+<a href="https://discord.gg/fujfyujfyuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fujfyujfyuj" height="30" width="40" /></a>
+<a href="/yjyuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="yjyuj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,4 +54,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyan&show_icons=true&locale=en" alt="cyan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyan&" alt="cyan" /></p>
-
