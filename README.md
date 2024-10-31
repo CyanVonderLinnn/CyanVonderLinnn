@@ -5,19 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyan" alt="cyan" /></a> </p>
 
-- 🔭 I’m currently working on google [AERFEAERF](AERFAERF)
-
-- 🌱 I’m currently learning **FAEFAERF**
-
-- 👯 I’m looking to collaborate on [AREFAERF](AERFAERF)
-
-- 🤝 I’m looking for help with [ARFAER](FAERFAER)
-
-- 👨‍💻 All of my projects are available at [FE](FE)
-
-- 📫 How to reach me **FWEFE**
-
-- 📄 Know about my experiences [FAERFAERF](FAERFAERF)
 
 - ⚡ Fun fact **FAERFAERF**
 
